@@ -5,5 +5,5 @@ A portfolio containing some of my SVG illustrations. I might release the SVG cod
 ## Nautical theme
 ![Nautical theme sprite](nautical-theme-sprite-2108171100.png?raw=true "Nautical theme sprite")
 
-## Nautical theme
+## Farming theme
 ![Farming theme sprite](farming-theme-sprite-2108171100.png?raw=true "Farming theme sprite")
